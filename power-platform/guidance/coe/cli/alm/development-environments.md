@@ -23,7 +23,7 @@ Each maker will need a development environment created. Advanced makers can use 
 
 ## Power Platform for developer licenses
 
-One approach to app development is for organizations is to manage and assign development environments to makers. To sign up for the developer plan for your organization, you may need to enable viral sign-up to have the license assigned to your organization.
+One approach to app development is for organizations to manage and assign development environments to makers. To sign up for the developer plan for your organization, you may need to enable viral sign-up to have the license assigned to your organization.
 
 1. Check if ad-hoc subscriptions are enabled in your tenant.
 
